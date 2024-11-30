@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif; 
+}
+h1{
+    font-size: 50px; text-align: center;
+}
+table{
+    border-collapse: collapse; border: 1px solid lightgrey; margin: 10px; text-align: center; font-size: 20px;
+}
+tr{
+    background-color: olive; color: white; border: 1px solid lightgrey;
+}
+td{
+
+}
+.1{
+    background-color: olive; color: white; border: 1px solid lightgrey; padding: 0px; border: 1px solid lightgrey;
+}
+
